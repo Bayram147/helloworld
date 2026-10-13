@@ -1,0 +1,35 @@
+
+.pembekedi{
+    color: rgb(255, 0, 204);
+}
+.byk{
+    font-size: 50px;
+}
+.blue{
+    color: rgb(43, 80, 226);
+}
+.pembe{
+    color: deeppink;
+}
+.arkaplan{
+    background-color: aqua;
+}
+.arkaplan2{
+    background-color: brown;
+}
+#özel{
+    background-color: rgba(33, 239, 29, 0.91);
+    font-size: 80px;
+}
+.sabitDiv{
+    position:fixed;
+    top: 1px;
+    left: 10px;
+    background-color: chartreuse;
+    padding: 10px;
+}
+body{
+    height: 2000px;
+
+}
+
